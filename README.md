@@ -3,7 +3,7 @@
 
 🕶️ I'm written in react-native
 
-# Needs 🌞
+# Requirements
 👉 Expo CLI, if not installed run the command "npm install -g expo-cli".
 
 👉 Expo mobile app, else install from the play store.
