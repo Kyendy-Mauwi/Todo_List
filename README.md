@@ -1,6 +1,8 @@
 # Todo_List
 🐆 Simple activity check list app.
 
+🕶️ I'm written in react-native
+
 # Needs 🌞
 👉 Expo CLI, if not installed run the command "npm install -g expo-cli".
 
